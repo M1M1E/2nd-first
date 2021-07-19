@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Grande page</title>
+    </head>
+
+    <body>
+      <h1> Une tres grande page</h1>
+
+      <p>
+       Aller directement à la partie parlant de : <br/>
+       <a href=#dessin-animé">Les dessins animés</a><br/>
+       <a href="#codage">Le codage informatique</a><br/>
+       <a href="#photoshop">Utilisation de photoshop</a><br/>
+    </p>
+
+    <h2 id="dessin-animé">Les dessins animés</h2>
+
+    <p>Le dessin animé est une technique de film d'animation. Il est surtout connu pour son succès auprès des enfants, même si une grande part de la production s'adresse à toutes sortes de publics.
+
+Les techniques classiques les plus utilisées sont des décors peints sur papier, des personnages et objets mouvants dessinés et gouachés sur celluloïd (ou cellulos, feuille transparente d'acétate de cellulose).
+
+Dans les années 1990, l'informatique a bouleversé les techniques traditionnelles, et aujourd'hui la plupart des dessins animés sont partiellement réalisés par ordinateur. Malgré la venue de l'informatique dans le domaine du dessin animé, la majorité des dessins sont réalisés à la main. Certains programmes permettent de créer des intervalles mais les images clés restent confectionnées par l'animateur. L'ordinateur permet d'adjoindre une infinité de couches dans l'animation et de faciliter la coloration. L'informatique permet encore d'éviter le développement d'une pellicule spécifique pour tester l'animation.
+Le dessin animé
+
+Un dessin animé est une animation de plusieurs croquis, de plusieurs dessins dans le but de créer un mouvement, une vie à quelque chose de statiquebr/>
+
+«Jujutsu Kaisen» est-il le prochain «Naruto»?
+
+L'œuvre de Gege Akutami s'est hissée dans le top 5 des mangas les plus vendus de 2020 et son adaptation par le studio MAPPA a reçu le titre d'Anime de l'année aux Anime Awards 2021.
+
+Anne Chirol — 9 mai 2021 — Temps de lecture : 8 min
+Quand Tolkien exprimait son «dégoût sincère» pour le style de Disney
+
+Quand Tolkien exprimait son «dégoût sincère» pour le style de Disney
+
+D'un côté il y aurait le raffinement, de l'autre la vulgarité. Ce préjugé détermine encore la mauvaise réputation dont pâtit le producteur américain dans les milieux éducatifs.
+
+Christian Chelebourg — 12 août 2020 — Temps de lecture : 6 min
+«Andy de “Toy Story” va devenir le meilleur vendeur de jouets du monde»
+
+«Andy de “Toy Story” va devenir le meilleur vendeur de jouets du monde»
+
+Buzz, Woody et compagnie lui ont appris tant de choses sur la vie.
+
+Thomas Messias — 29 août 2019 — Temps de lecture : 5 min
+«Docteur La Peluche pourrait être la première femme afro-américaine à la Maison-Blanche»
+
+«Docteur La Peluche pourrait être la première femme afro-américaine à la Maison-Blanche»
+
+Tout semblait sur les rails: Dottie allait devenir un grand médecin. Mais Michelle Obama est passée par là.
+
+Thomas Messias — 22 août 2019 — Temps de lecture : 5 min
+«Je pense que la transition écologique pourrait venir des enfants Barbapapa»
+
+«Je pense que la transition écologique pourrait venir des enfants Barbapapa»
+
+Barbotine, Barbidou, Barbalala et les autres n'ont pas tout à fait adopté la trajectoire prévue. À moins que...
+
+Thomas Messias — 25 juillet 2019 — Temps de lecture : 5 min
+«Nicky Larson» n'est pas le nanar sexiste que l'on nous a promis
+
+«Nicky Larson» n'est pas le nanar sexiste que l'on nous a promis
+
+Les critiques pleuvent sur «Nicky Larson et le parfum de Cupidon», accusé d'être graveleux, misogyne et homophobe. Ce n'est pourtant pas la seule façon de cerner le film.
+
+Guillaume Labrude — 18 février 2019 — Temps de lecture : 5 min
+Aux États-Unis, les enfants parlent comme Peppa Pig
+
+Aux États-Unis, les enfants parlent comme Peppa Pig
+
+Comment réagiriez-vous si votre enfant grognait après avoir parlé?
+
+Repéré par Jasmine Parvine — 4 février 2019 — Temps de lecture : 2 min
+«Another Day of Life», voyage dans la guerre et le temps
+
+«Another Day of Life», voyage dans la guerre et le temps
+
+Images animées et documents authentiques s'associent pour raconter un moment d'extrême violence en Angola, tel que l'a vécu et décrit il y a plus de quarante ans Ryszard Kapuściński..</p>
+
+<h2 id="codage"> Le codage informatique</h2>
+
+  <p>Le codage dirige le monde tel que nous le connaissons, mais la grande majorité des gens n’est même pas au courant de son existence, encore moins de ce qu’il est. Avant de commencer, je veux que vous essayiez de répondre «Qu'est-ce que le codage?»: Cliquez avec le bouton droit de la souris quelque part dans la fenêtre de votre navigateur et sélectionnez «View Source Source». Faites défiler la fenêtre qui apparaît et voyez si vous reconnaissez ou comprenez quelque chose.
+
+Comme vous vous en doutez, vous venez de visualiser le code derrière cette page Web ou le modèle d'objet de document (DOM). Cela signifie que vous voyez tout le balisage de la page et que si vous avez au moins appris les bases HTML, CSS ou JavaScript, il sera peut-être plus facile de repérer des balises et des éléments familiers.
+
+Maintenant, en termes simples, définissons le codage comme l’acte de base de l’écriture - dans un langage de programmation - un script qu'un ordinateur peut comprendre. Ce script indiquera à l'ordinateur de se comporter d'une certaine manière, de faire une certaine chose et, en fin de compte, d'exécuter les actions souhaitées, si votre code est correct. </p>
+
+
+<h2 id="photoshop">Utilisation de photoshop</h2>
+<p> 
+
+Cette année Photoshop fête ses 29 ans. Et même si vous ne l’avez jamais utilisé, vous n’êtes sûrement pas passé à côté de la révolution engendrée par ce logiciel de retouche d’images. À tel point qu’il a carrément donné naissance à un verbe pour décrire une photo retouchée – ce qui donne « que nous eussions photoshopé » au plus-que-parfait du subjonctif, si vous vous posez aussi la question.
+
+ 
+
+Petites entreprises ou indépendants en tout genre, si vous avez déjà créé votre site et eu besoin d’y mettre de belles images, vous savez à quel point Photoshop est un outil précieux. Autrefois considéré comme l’arme secrète des graphistes, il se démocratise et se répand sur nos ordinateurs. De la suppression d’une petite tache à l’ajout d’un hippopotame dans un décor d’appartement, désormais tout le monde peut apprendre les bases de la retouche photo sans trop de difficultés. Eh oui, vous aussi ! Voici donc quelques-uns de nos trucs et astuces favoris pour débutants sur Photoshop.
+
+ 
+
+Note : tous les raccourcis cités dans l’article sont formulés pour les utilisateurs de PC. Inconditionnels de Mac – vous savez quoi faire : on remplace le bouton Ctrl par la touche Cmd.
+
+ 
+
+Transformer une image : Modifier la taille, faire pivoter ou déformer
+
+ 
+
+Cliquez sur Edition >  Transformation  et sélectionnez l’action désirée.
+
+ 
+
+Ou bien essayez ces raccourcis pour vous rendre la vie plus facile :
+
+ 
+
+Appuyez sur Ctrl + T  : un cadre apparaitra autour de l’image. Cela signifie que vous pouvez maintenant redimensionner votre photo. Le meilleur moyen de le faire est de placer le curseur sur l’un des coins de la boite puis de le faire glisser tout en maintenant la touche Majenfoncée. Lorsque vous avez terminé, appuyez simplement sur Entrée et le tour est joué.
+
+ 
+
+Pour retourner votre image verticalement ou horizontalement, appuyez sur Ctrl + T puis effectuez un clic droit sur la souris. Une fenêtre pop-up apparaitra avec plusieurs options de rotation et de retournement de l’image. Sélectionnez l’action que vous voulez effectuer puis appuyez sur Entrée.</p>
+
+
+ 
+
+Pour déformer ou incliner une image, appuyez sur Ctrl + T puis placez le curseur sur le coin que vous souhaitez distordre. Appuyez sur Ctrl tout en maintenant votre souris sur le coin de l’image que vous cherchez à transformer et faites-la glisser vers le bas jusqu’au niveau souhaité. Appuyez enfin sur Entrée pour valider.
+
+
+       </body>
+</html>

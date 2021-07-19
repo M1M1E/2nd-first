@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Page organisée</title>
+    </head>
+
+    <body>
+    <h1> Bienvenue dans le monde du HTML</h1>
+
+      <p> Voici un 1er paragraphe.</br>Je suis un peu à court d'idée donc je vous laisse en compagnie d'un ami .</p> <img src="http://blog.univ-angers.fr/theorie/files/2017/04/130110155311-Charlotte_Fromentin_tutoriel_bob_leponge_alife_photoshop_illustrator.png"/>
+       <h2> 2nd titre de la page</h2>
+          <p> Toujours pas inspirée dans ce 2ème paragraphe.... ;) </br>Peut-être trop travaillé pour vous présenter cet exposé!</p>
+<h3> Déroulement de la semaine</h3>
+        <ol>
+          <li>Lundi: Doucement</li>
+          <li>Mardi: Pas trop vite</li>
+          <li>Mercredi: Repos ( parce qu'on prend vite goût à un jour férié en plein milieu de semaine)!</li>
+          <li>Jeudi: Lentement</li>
+          <li>Vendredi: Week-end de 3 jours bien mérité apres cette semaine épuisante </li>
+
+          <p><strong>Quand on va devoir apprendre et comprendre le code... </strong>
+          <img src="https://www.ajournalofmusicalthings.com/wp-content/uploads/Homer-too-loud.gif" alt="homer se tire les cheveux"/>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+h1
+{
+    width: 100%;
+    border: 1px solid grey;
+    text-align:left;
+    background-color: grey;
+    color:white;
+}
+
+
+aside
+{
+    width:50%;
+    border: 1px solid cadetblue;
+    text-align:right;
+    background-color:cadetblue;
+    color: white;
+}
